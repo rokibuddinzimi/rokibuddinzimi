@@ -2,10 +2,11 @@
 
 
  <strong>About me</strong> 
- *6 years of experience as an android app developer 💻 
- *Working at ZS Solution Ltd 👨‍🎨📲 
- *Passionate about Android, Kotlin, automated tests, mobile architectures, food, traveling and videogames ♥️ 
- *Tea enthusiast and its different preparation methods ☕
+ 
+ * 6 years of experience as an android app developer 💻 
+ * Working at ZS Solution Ltd 👨‍🎨📲 
+ * Passionate about Android, Kotlin, automated tests, mobile architectures, food, traveling and videogames ♥️ 
+ * Tea enthusiast and its different preparation methods ☕
 
 You can find me on [https://www.linkedin.com/in/rokib-uddin/].
 
