@@ -8,7 +8,7 @@
  * Passionate about Android, Kotlin, automated tests, mobile architectures, food, traveling and videogames ♥️ 
  * Tea enthusiast and its different preparation methods ☕
 
-You can find me on [https://www.linkedin.com/in/rokib-uddin/].
+Find me on [https://www.linkedin.com/in/rokib-uddin/].
 
 ## &#x270d; Life
 
