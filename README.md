@@ -3,7 +3,7 @@
 
  <strong>About me</strong> 
  
- * 6 years of experience as an android app developer 💻 
+ * Experienced android app developer 💻 
  * Working at ZS Solution Ltd 👨‍🎨📲 
  * Passionate about Android, Kotlin, automated tests, mobile architectures, food, traveling and videogames ♥️ 
  * Tea enthusiast ☕
