@@ -12,7 +12,7 @@ Find me on [https://www.linkedin.com/in/rokib-uddin/].
 
 ## &#x270d; Life
 
-Apart from coding, I also a traveler and a pohotographer. Check out my instagram to see some of my works [ZIMIIIIII](https://www.instagram.com/zimiiiiii/) 
+Apart from coding, I am also a traveler and a pohotographer. Check out my instagram to see some of my works [ZIMIIIIII](https://www.instagram.com/zimiiiiii/) 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
