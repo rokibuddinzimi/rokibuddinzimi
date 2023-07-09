@@ -2,9 +2,12 @@
 
 
  <strong>About me</strong> 
+
+A dedicated and friendly professional, with the capability of working individually or in group. An experienced Android Software Engineer that has been working for 8+ years developing Android applications. Always being part of the whole development process (specification, UI/UX design, architecture, development and tests), capable of making architectural decisions and of leading a mobile development team.
  
  * Experienced android app developer 💻 
- * Working at ZS Solution Ltd 👨‍🎨📲 
+ * Working at Astha IT 👨‍🎨📲
+ * Experienced in HealthTech, FinTech, EdTech and Mobile Operator specilized app.
  * Passionate about Android, Kotlin, automated tests, mobile architectures, food, traveling and videogames ♥️ 
  * Tea enthusiast ☕
 
